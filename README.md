@@ -16,6 +16,8 @@ Etant donné le diagramme de domaine ci-dessus, les assertions suivantes sont-el
 
 Représentez la même association avec la notation UML « petit losange » 
 
+![classes2](/uml/classes2.png)
+
 - Quelles informations perd-on par rapport au diagramme ci-dessus ? 
 
-****
+**L'ajout d'un petit losange vient enlever les indications du nombres de professeurs par discipline.**
